@@ -7,3 +7,5 @@ This implementation adheres to the official standards defined by the member nati
 - **Minimum Elongation:** 6.4°
 
 For more information on the official framework, visit the [Official MABIMS Portal](https://www.muis.gov.sg/).
+## License
+This library is licensed under the [MIT License](LICENSE).
