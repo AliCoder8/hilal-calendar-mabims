@@ -1,2 +1,9 @@
-# hilal-calendar-mabims
-A Python script for Hijri calendar generation based on the unified MABIMS visibility criteria (altitude ≥ 3° and elongation ≥ 6.4°), as officially adopted by the religious authorities of Brunei, Indonesia, Malaysia, and Singapore (see: https://www.muis.gov.sg/).
+# MABIMS Hilal Calendar Library
+
+An astronomical calculation library designed to determine the start of Hijri months using the updated **MABIMS (Brunei, Indonesia, Malaysia, and Singapora)** criteria. 
+
+This implementation adheres to the official standards defined by the member nations' religious authorities:
+- **Minimum Altitude:** 3°
+- **Minimum Elongation:** 6.4°
+
+For more information on the official framework, visit the [Official MABIMS Portal](https://www.muis.gov.sg/).
