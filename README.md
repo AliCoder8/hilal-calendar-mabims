@@ -6,6 +6,7 @@ This implementation adheres to the official standards defined by the member nati
 - **Minimum Altitude:** 3°
 - **Minimum Elongation:** 6.4°
 
-For more information on the official framework, visit the [Official MABIMS Portal](https://www.muis.gov.sg/).
+For more information, visit the [Official Government Portal](https://www.muis.gov.sg/).
 ## License
-This library is licensed under the [MIT License](LICENSE).
+- This library is licensed under the [MIT License](LICENSE).
+- The generated astronomical Hijri data (2022–2077) is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
