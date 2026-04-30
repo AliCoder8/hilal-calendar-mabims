@@ -10,7 +10,7 @@
 # provided you give appropriate credit to the author.
 #
 # Full license terms: https://creativecommons.org/licenses/by/4.0/
-# Website: https://github.com/AliCoder8/hilal-calendar-mabims
+# Website: https://github.com/AliCoder8/pymabims
 
 class _IslamicMabimsDates:
     EID_AL_ADHA_DATES = {
