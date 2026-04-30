@@ -1,7 +1,7 @@
 # Copyright (c) 2026 AliCoder8
 # Licensed under the MIT License.
 # See LICENSE file in the project root for full license information.
-# Website: https://github.com/AliCoder8/hilal-calendar-mabims
+# Website: https://github.com/AliCoder8/pymabims
 
 import math
 from datetime import timedelta
